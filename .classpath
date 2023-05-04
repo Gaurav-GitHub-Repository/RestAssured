@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Drivers"/>
+	<classpathentry kind="src" path="Libraries"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Software/Rest Assured Jar File/rest-assured-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Testng Jar/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Hamcrest Jar File/hamcrest-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Jackson Jars/jackson-core-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-api-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-api-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-chrome-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-chrome-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-chromium-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-chromium-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-devtools-v85-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-devtools-v85-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-devtools-v94-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-devtools-v94-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-devtools-v95-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-devtools-v95-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-devtools-v96-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-devtools-v96-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-edge-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-edge-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-firefox-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-firefox-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-firefox-xpi-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-firefox-xpi-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-http-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-http-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-ie-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-ie-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-java-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-java-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-json-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-json-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-opera-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-opera-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-remote-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-remote-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-safari-driver-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-safari-driver-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-support-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Software/selenium-java-4.1.0/selenium-support-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Jackson Jars/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Jackson Jars/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Jackson Jars/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Software/Jackson Jars/gson-2.8.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
