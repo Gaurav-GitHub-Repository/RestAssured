@@ -36,7 +36,7 @@ public class BuildRestAPITestandValidateStatusCode {
 		    		+ "")
 		    
 		    .when().post("maps/api/place/add/json").then().log().all().assertThat().statusCode(200)
-		    .body("scope", equalTo("APP")).header("Server", "Apache/2.4.41 (Ubuntu)");
+		    .body("scope", equalTo("APP")).header("Server", "Apache/2.4.52 (Ubuntu)");
 		    
 			}
 	
